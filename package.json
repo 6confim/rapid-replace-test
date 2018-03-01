@@ -1,0 +1,18 @@
+{
+  "name": "rapid-replace-test",
+  "version": "0.0.1",
+  "description": "test rapid relpace project",
+  "main": "index.js",
+  "repository": "https://github.com/dshaobin/rapid-replace-test.git",
+  "author": "dushaobin",
+  "license": "MIT",
+  "rapidReplaceConfig": {},
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "rapid-replace": "0.1.0",
+    "react-native": "^0.53.3"
+  }
+}

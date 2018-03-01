@@ -1,0 +1,1 @@
+console.log('hello asset i am from fixed');
